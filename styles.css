@@ -1,0 +1,91 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.2em;
+}
+
+.box-1 {
+    background-color: peachpuff;
+    border: 5px ridge  peru;
+    padding: 10px;
+    margin: 20px;
+}
+
+.box-2 {
+    background-color: peachpuff;
+    border: 3px ridge peru;
+    padding: 10px;
+    margin: 20px;
+}
+
+.box-3 {
+    background-color: peachpuff;
+    border: 3px ridge peru;
+    padding: 10px;
+    margin: 20px;  
+}
+
+.box-4 {
+    background-color: peachpuff;
+    border: 3px ridge peru;
+    padding: 10px;
+    margin: 20px;
+}
+
+.box-5 {
+    background-color: peachpuff;
+    border: 3px ridge peru;
+    padding: 10px;
+    margin: 20px;
+}
+
+.box-1 h1 {
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(202, 128, 54);
+    font-weight: bolder;
+    margin: 0 auto;
+    width: 500px;
+}
+
+.box-2 h2 {
+    font-size:16px;
+    color:rgb(202, 128, 54);
+}
+
+.box-2 p {
+    font-size: 14px;
+    color:peru;
+}
+
+.box-2 img {
+    border: 2px solid peru;
+}
+
+.box-2 ul {
+    font-size: 14px;
+    color: peru;
+}
+
+.box-3 li {
+    display: inline;
+    margin: 250px;
+ }  
+
+ .box-3 a {
+     color:rgb(202, 128, 54);
+     font-size: 14px;
+ }
+
+.box-4 a {
+font-size: 14px;
+color:rgb(202, 128, 54);
+display: inline;
+margin: 700px;
+}
+
+.box-5 h1 {
+    font-size: 14px;
+}
+
+/*MEDIA QUERIES */
+
